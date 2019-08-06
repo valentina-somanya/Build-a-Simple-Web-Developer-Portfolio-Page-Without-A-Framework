@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+h1{
+    margin-top: 0;
+    font-size: 362.2%;
+    color: rgb(30, 68, 68);
+    font-family: 'Sacramento', cursive;
+    padding: 20px;
+}
+.centered-img{
+    width: 18%;
+}
+.top-container{
+    background-color: #b2d3be; 
+    background: linear-gradient(to right bottom, #abd8ce,#293f50);
+}
+.middle-container{
+    margin-top: 50px;
+}
+h2{
+    color: rgb(41, 110, 110);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.0em;
+    font-weight: normal;
+    padding: 3px;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+}
+p{
+    line-height: 2;
+    color: rgb(30, 68, 68);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
+}
+.introduction{
+   width: 30%;
+   margin: auto;
+}
+hr{
+    margin:70px auto;
+    width: 7%;
+    border: 6px dotted rgb(76, 188, 192);
+    border-bottom: none;
+}
+.head{
+    text-align: center;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto; 
+    text-align: left;  
+}
+.skill-img{
+    width: 20%;
+    float: left;
+    padding: 30px;
+}
+.article-img{
+    width: 20%;
+    float: right;
+    padding: 28px;
+}
+
+li{
+    padding: 5px;
+    list-style-type: none;
+    width: 50%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    color: rgb(30, 68, 68);
+    list-style-type: circle;
+    font-size: 20px;
+    letter-spacing: 1px;
+    
+}
+a:hover{
+    font: 500;
+    background-color: #66BFBF;
+    
+}
+a:visited { 
+    color: #40514E;
+  }
+
+.contact-me{
+    width: 40%;
+    margin: 40px auto 50px;
+    padding: 5px;
+}
+.btn{
+    
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 50px;
+    background-color: #66BFBF;
+    color: #40514E;
+    text-decoration: none;
+}
+.footer-p{
+    font-size: 15px;
+}
+footer{
+    background: linear-gradient(to right bottom, #abd8ce,#293f50);
+}
